@@ -1,0 +1,7 @@
+package soner;
+
+public class sonersoner {
+    public static void main(String[] args) {
+        System.out.println("herhalde bu olacak");
+    }
+}
