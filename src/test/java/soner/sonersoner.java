@@ -5,5 +5,7 @@ public class sonersoner {
         System.out.println("herhalde bu olacak");
         System.out.println("he");
         //dfghjklñ´lkjhgfrtyuikolñ
+        //jhgfzdhgjhljl.j,nbznm,h
+        //olmaz boyle
     }
 }
