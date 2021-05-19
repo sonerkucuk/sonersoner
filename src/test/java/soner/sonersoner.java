@@ -7,5 +7,6 @@ public class sonersoner {
         //dfghjklñ´lkjhgfrtyuikolñ
         //jhgfzdhgjhljl.j,nbznm,h
         //olmaz boyle
+        //ne oluyor
     }
 }
